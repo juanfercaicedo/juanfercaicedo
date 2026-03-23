@@ -14,4 +14,4 @@
 
 ### 📊 Mis Estadísticas en GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juanfercaicedo&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juanfercaicedo&theme=soft-green&hide_border=true&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
