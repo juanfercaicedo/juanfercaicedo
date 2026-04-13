@@ -2,7 +2,7 @@
 
 ### 🚀 Sobre Mí
 * 🎓 **Estudiante de Ingeniería Informática** apasionado por la tecnología y la resolución de problemas.
-* 💻 Me enfoco aprender cosas nuevas
+* 💻 Me enfoco en aprender cosas nuevas
 
 ---
 ### 🛠️ Lenguajes y Herramientas
